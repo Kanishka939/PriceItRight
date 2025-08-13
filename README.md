@@ -22,7 +22,7 @@
 
 
 ### 💰 Revenue vs Price Simulation
-![Revenue vs Price](assets/screenshot2.png)
+![Banner](https://github.com/Kanishka939/PriceItRight/blob/6deaab57e35737cd3b7a677d884ea79e7b038680/dpe2.png)
 
 ### 🌱 Seasonality Impact on Purchases
 ![Seasonality Impact](assets/screenshot3.png)
