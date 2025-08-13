@@ -18,7 +18,8 @@
 > Make sure these images are stored in the `assets/` folder.
 
 ### 🔧 Dashboard Overview
-![https://github.com/Kanishka939/PriceItRight/blob/12b7d23c6a3dd75c6a4e14d13aa0c99498525a12/dpe1.png](assets/screenshot1.png)
+![Banner](https://raw.githubusercontent.com/Kanishka939/PriceItRight/12b7d23c6a3dd75c6a4e14d13aa0c99498525a12/dpe1.png)
+
 
 ### 💰 Revenue vs Price Simulation
 ![Revenue vs Price](assets/screenshot2.png)
