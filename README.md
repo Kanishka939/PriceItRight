@@ -28,7 +28,7 @@
 ![Banner](https://github.com/Kanishka939/PriceItRight/blob/c53570ea2b15925c9ff64537a6acb7e2ace63981/dpe3.png)
 
 ### 📊 Conversion Rate Over Time
-![Conversion Trend](assets/screenshot4.png)
+![Banner](https://github.com/Kanishka939/PriceItRight/blob/733e0cfa5e262fce0627fdaad161f1a3e60330c7/dpe4.png)
 
 ---
 
@@ -51,6 +51,24 @@
 
 ## 🚀 Run This Project in Google Colab
 
-### 1️⃣ Install Dependencies
-```bash
-!pip install streamlit xgboost matplotlib seaborn pyngrok --quiet
+---
+
+## 🙌 Credits
+
+Built with 💡, ☕, and a lot of debugging by:
+
+- [**Kanishka Sahu**]
+- [**Binit Girish Sahani**]
+
+Special thanks to open-source tools like:
+
+- 🧠 **Scikit-learn** – modeling  
+- 📈 **XGBoost** – boosting engine  
+- 🎨 **Streamlit** – beautiful web app UI  
+
+---
+
+> 🔗 *This project is open-source. Contributions, forks, and stars are always welcome!*
+
+---
+
