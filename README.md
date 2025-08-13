@@ -25,7 +25,7 @@
 ![Banner](https://github.com/Kanishka939/PriceItRight/blob/6deaab57e35737cd3b7a677d884ea79e7b038680/dpe2.png)
 
 ### 🌱 Seasonality Impact on Purchases
-![Seasonality Impact](assets/screenshot3.png)
+![Banner](https://github.com/Kanishka939/PriceItRight/blob/c53570ea2b15925c9ff64537a6acb7e2ace63981/dpe3.png)
 
 ### 📊 Conversion Rate Over Time
 ![Conversion Trend](assets/screenshot4.png)
