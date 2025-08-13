@@ -1,6 +1,5 @@
 # 💸 Price It Right
 
-![Streamlit App Banner](assets/banner.png)
 
 **Price It Right** is an interactive, machine learning-powered pricing simulation tool built with **Streamlit**. It predicts optimal product prices based on real-time business factors like:
 
