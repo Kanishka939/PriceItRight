@@ -18,7 +18,7 @@
 > Make sure these images are stored in the `assets/` folder.
 
 ### 🔧 Dashboard Overview
-![Dashboard Screenshot](assets/screenshot1.png)
+![dpe1.png](assets/screenshot1.png)
 
 ### 💰 Revenue vs Price Simulation
 ![Revenue vs Price](assets/screenshot2.png)
